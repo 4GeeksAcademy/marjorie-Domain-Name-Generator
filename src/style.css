@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#dom {
+  background-color: burlywood;
+  border-style: solid;
+}
