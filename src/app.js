@@ -9,7 +9,7 @@ window.onload = function() {
   let pronoun = ["the", "our"];
   let adj = ["great", "big"];
   let noun = ["jogger", "racoon"];
-  let domain = [".net", ".us", ".net"];
+  let domain = [".net", ".us", ".com"];
 
   for (let x of pronoun) {
     for (let y of adj) {
